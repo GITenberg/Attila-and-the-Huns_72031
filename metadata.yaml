@@ -1,5 +1,8 @@
 _repo: Attila-and-the-Huns_72031
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72031-h/images/cover.jpg
 creator:
   author:
     agent_name: Hutton, Edward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3315
     wikipedia: https://en.wikipedia.org/wiki/Edward_Hutton_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72031#Attila-and-the-Huns
 gutenberg_issued: '2023-11-04'
 identifiers:
   gutenberg: '72031'
